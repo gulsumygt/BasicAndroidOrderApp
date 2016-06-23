@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="order_summary_name">İsim: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="thank_you">Teşekkürler!</string>
+    <string name="toppings">Extra malzemeler</string>
+    <string name="chocolate">Çikolata</string>
+    <string name="name">İsim</string>
+    <string name="order">Sipariş ver</string>
+    <string name="order_summary">Sipariş özeti</string>
+    <string name="quantity">Adet</string>
+    <string name="whipped_cream">Krema</string>
+    <string name="has_chocolate">Çikolata eklensin mi?<xliff:g id="chocolate" example="true">%b</xliff:g></string>
+    <string name="has_whipped_cream">Krema eklensin mi? <xliff:g id="whipped_cream" example="true">%b</xliff:g></string>
+    <string name="order_summary_quantity">Adet: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="total">Toplam tutar:  <xliff:g id="total" example="10">%d</xliff:g></string>
+</resources>
